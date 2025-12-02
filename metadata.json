@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Vox",
+  "description": "High-fidelity text-to-speech generator using Gemini 2.5 Flash. Create, listen, and download custom audio clips instantly.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
